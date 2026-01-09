@@ -1,2 +1,3 @@
 # stack_queue
-exercício stack_queue utilizando prog modular em C
+exercício de filas e pilhas utilizando prog modular em C
+ambas estruturas possuem tamanhos fixos
